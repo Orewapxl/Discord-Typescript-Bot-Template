@@ -9,11 +9,13 @@ Perfect for starting a new bot project with a structured and easy-to-expand setu
 ## 📸 Preview
 
 ### Bot Command Example
-![Bot Message]<img width="713" height="143" alt="image" src="https://github.com/user-attachments/assets/0314874b-998e-4cff-8abb-7dd2f0398bf0" />
+![Bot Message]
+<img width="713" height="143" alt="image" src="https://github.com/user-attachments/assets/0314874b-998e-4cff-8abb-7dd2f0398bf0" />
 
 
 ### Bot Profile
-![Bot Profile]<img width="376" height="358" alt="image" src="https://github.com/user-attachments/assets/508b7920-5c34-4fd4-b6a0-dde9ce7a638b" />
+![Bot Profile]
+<img width="376" height="358" alt="image" src="https://github.com/user-attachments/assets/508b7920-5c34-4fd4-b6a0-dde9ce7a638b" />
 
 
 ---
